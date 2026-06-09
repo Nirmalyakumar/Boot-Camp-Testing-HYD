@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-08T16:17:37 IST" name="Default suite" finished-at="2026-06-08T16:18:43 IST" duration-ms="65972">
+    <groups>
+    </groups>
+    <test started-at="2026-06-08T16:17:37 IST" name="Default test" finished-at="2026-06-08T16:18:43 IST" duration-ms="65972">
+      <class name="com.SeleniumTestWebsite.LaunchEdgeBrowser">
+        <test-method signature="EdgeBrowserTest()[pri:0, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:17:37 IST" name="EdgeBrowserTest" finished-at="2026-06-08T16:17:45 IST" duration-ms="7779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest -->
+        <test-method signature="EdgeBrowserTest1()[pri:1, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:17:45 IST" name="EdgeBrowserTest1" finished-at="2026-06-08T16:17:50 IST" duration-ms="4955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest1 -->
+        <test-method signature="EdgeBrowserTest2()[pri:2, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:17:50 IST" name="EdgeBrowserTest2" finished-at="2026-06-08T16:17:56 IST" duration-ms="5680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest2 -->
+        <test-method signature="EdgeBrowserTest3()[pri:3, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:17:56 IST" name="EdgeBrowserTest3" finished-at="2026-06-08T16:18:06 IST" duration-ms="10172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest3 -->
+        <test-method signature="EdgeBrowserTest4()[pri:4, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:18:06 IST" name="EdgeBrowserTest4" finished-at="2026-06-08T16:18:12 IST" duration-ms="5654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest4 -->
+        <test-method signature="EdgeBrowserTest5()[pri:5, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:18:12 IST" name="EdgeBrowserTest5" finished-at="2026-06-08T16:18:19 IST" duration-ms="6980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest5 -->
+        <test-method signature="EdgeBrowserTest6()[pri:6, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:18:19 IST" name="EdgeBrowserTest6" finished-at="2026-06-08T16:18:30 IST" duration-ms="11787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest6 -->
+        <test-method signature="EdgeBrowserTest7()[pri:7, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:18:30 IST" name="EdgeBrowserTest7" finished-at="2026-06-08T16:18:36 IST" duration-ms="5708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest7 -->
+        <test-method signature="EdgeBrowserTest8()[pri:8, instance:com.SeleniumTestWebsite.LaunchEdgeBrowser@5b7a5baa]" started-at="2026-06-08T16:18:36 IST" name="EdgeBrowserTest8" finished-at="2026-06-08T16:18:43 IST" duration-ms="7149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest8 -->
+      </class> <!-- com.SeleniumTestWebsite.LaunchEdgeBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
