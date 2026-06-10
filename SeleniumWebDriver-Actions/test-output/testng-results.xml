@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-10T14:55:48 IST" name="Default suite" finished-at="2026-06-10T14:56:26 IST" duration-ms="38017">
+  <suite started-at="2026-06-10T15:26:09 IST" name="Default suite" finished-at="2026-06-10T15:26:43 IST" duration-ms="33913">
     <groups>
     </groups>
-    <test started-at="2026-06-10T14:55:48 IST" name="Default test" finished-at="2026-06-10T14:56:26 IST" duration-ms="38017">
-      <class name="com.Actions.ActionsTestDemo">
-        <test-method signature="Frames()[pri:0, instance:com.Actions.ActionsTestDemo@28701274]" started-at="2026-06-10T14:55:48 IST" name="Frames" finished-at="2026-06-10T14:56:26 IST" duration-ms="37974" status="PASS">
+    <test started-at="2026-06-10T15:26:09 IST" name="Default test" finished-at="2026-06-10T15:26:43 IST" duration-ms="33913">
+      <class name="com.Actions.TestScrollUpandDown">
+        <test-method signature="Frames()[pri:0, instance:com.Actions.TestScrollUpandDown@2ceb80a1]" started-at="2026-06-10T15:26:09 IST" name="Frames" finished-at="2026-06-10T15:26:43 IST" duration-ms="33868" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Frames -->
-      </class> <!-- com.Actions.ActionsTestDemo -->
+      </class> <!-- com.Actions.TestScrollUpandDown -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
